@@ -1,0 +1,5 @@
+ApplicationName: ContractFirst
+LogLevel: Debug
+ConnectionString:
+  Username: user
+  Password: password
