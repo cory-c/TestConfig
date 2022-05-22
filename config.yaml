@@ -1,5 +1,9 @@
-ApplicationName: ContractFirst
-LogLevel: Debug
-ConnectionString:
-  Username: user
-  Password: password
+
+AppConfig:
+  ApplicationName: ContractFirst
+  LogLevel: Debug
+  HelloMessage: "Hi there"
+  SqlConnectionInfo:
+    Username: user
+    Password: password
+    Server: "server1"
